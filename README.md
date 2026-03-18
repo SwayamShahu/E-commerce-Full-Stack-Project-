@@ -150,3 +150,47 @@ Frontend production build:
 cd frontend/shopease-frontend
 npm run build
 ```
+
+## Dashboard Screenshots
+
+1. Login Page
+
+![Login Page](docs/screenshots/01-login-page.png)
+
+2. Customer Landing Page
+
+![Customer Landing Page](docs/screenshots/02-customer-landing-page.png)
+
+3. Item Listed Page
+
+![Item Listed Page](docs/screenshots/03-item-listed-page.png)
+
+4. Add to Cart Option
+
+![Add to Cart Option](docs/screenshots/04-add-to-cart-option.png)
+
+5. Cart Page
+
+![Cart Page](docs/screenshots/05-cart-page.png)
+
+6. Checkout (Order Option)
+
+![Checkout (Order Option)](docs/screenshots/06-checkout-order-option.png)
+
+7. Order Page
+
+![Order Page](docs/screenshots/07-order-page.png)
+
+8. Admin Landing Page (Navigation Bar With Admin Option)
+
+![Admin Landing Page](docs/screenshots/08-admin-landing-page.png)
+
+9. Admin - All Placed Order Page
+
+![Admin - All Placed Order Page](docs/screenshots/09-admin-all-placed-order-page.png)
+
+10. Admin - Edit / Update Product Page
+
+![Admin - Edit / Update Product Page](docs/screenshots/10-admin-edit-update-product-page.png)
+
+Note: Place your screenshot files in the `docs/screenshots` folder using the same filenames above.
