@@ -155,42 +155,22 @@ npm run build
 
 1. Login Page
 
-![Login Page](docs/screenshots/01-login-page.png)
+<img width="772" height="375" alt="image" src="https://github.com/user-attachments/assets/f1e6da3e-f7e5-4f39-af64-47c5678e010b" />
+
 
 2. Customer Landing Page
 
-![Customer Landing Page](docs/screenshots/02-customer-landing-page.png)
+<img width="772" height="374" alt="image" src="https://github.com/user-attachments/assets/6241c2d0-f8b8-4394-b189-74bfa850267b" />
+
 
 3. Item Listed Page
 
-![Item Listed Page](docs/screenshots/03-item-listed-page.png)
+<img width="772" height="378" alt="image" src="https://github.com/user-attachments/assets/731c0220-5dc6-406c-a808-49a50f9cf789" />
 
-4. Add to Cart Option
 
-![Add to Cart Option](docs/screenshots/04-add-to-cart-option.png)
+4. Cart Page
 
-5. Cart Page
+<img width="772" height="374" alt="image" src="https://github.com/user-attachments/assets/0c693e9d-755b-40dc-8f7f-cf2e6ce16aaa" />
 
-![Cart Page](docs/screenshots/05-cart-page.png)
-
-6. Checkout (Order Option)
-
-![Checkout (Order Option)](docs/screenshots/06-checkout-order-option.png)
-
-7. Order Page
-
-![Order Page](docs/screenshots/07-order-page.png)
-
-8. Admin Landing Page (Navigation Bar With Admin Option)
-
-![Admin Landing Page](docs/screenshots/08-admin-landing-page.png)
-
-9. Admin - All Placed Order Page
-
-![Admin - All Placed Order Page](docs/screenshots/09-admin-all-placed-order-page.png)
-
-10. Admin - Edit / Update Product Page
-
-![Admin - Edit / Update Product Page](docs/screenshots/10-admin-edit-update-product-page.png)
-
-Note: Place your screenshot files in the `docs/screenshots` folder using the same filenames above.
+------
+Contributor - Ansh Dulewale, Sanika Meshram, Shruti Puppalwar, Diksha Mendhe
